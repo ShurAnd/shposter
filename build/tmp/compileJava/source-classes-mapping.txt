@@ -1,0 +1,8 @@
+org/andrey/shposter/transformer/Transformer.java
+ org.andrey.shposter.transformer.Transformer
+org/andrey/shposter/ShposterApp.java
+ org.andrey.shposter.ShposterApp
+org/andrey/shposter/ShposterHttpPoster.java
+ org.andrey.shposter.ShposterHttpPoster
+org/andrey/shposter/transformer/TestTransformer.java
+ org.andrey.shposter.transformer.TestTransformer
